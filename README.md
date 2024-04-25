@@ -56,6 +56,11 @@ python3 -m pip freeze
 jupyter notebook
 ```
 
+### Install pandas libraries in the envn folder:
+```bash
+pip install pandas
+```
+
 ### Check this video to get the installation process step by steps:
 
 [Install Jupyter Notebook & Python in MacOS](https://www.youtube.com/watch?v=pkjtbnsX7Yw)
